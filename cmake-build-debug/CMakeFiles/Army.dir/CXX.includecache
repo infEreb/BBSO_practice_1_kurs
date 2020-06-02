@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/practice/practice.cpp
+iostream
+-
+cctype
+-
+algorithm
+-
+practice.h
+D:/C++/practice/practice.h
+D:/C++/practice/sown.h
+-
+
+D:/C++/practice/practice.h
+fstream
+-
+vector
+-
+string
+-
+sstream
+-
+
+D:/C++/practice/sown.h
+string
+-
+vector
+-
+

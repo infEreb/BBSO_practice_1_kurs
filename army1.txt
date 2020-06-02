@@ -1,0 +1,4 @@
+* Barbarian 238 25 NoneArmor 0
+* Rider Barbarian 150 25 NoneArmor 0 Elephant 350 10 15
+* Catapult 850 Stone *SKILL* 20 10
+* Catapult 850 Bullet *SKILL* 25 10

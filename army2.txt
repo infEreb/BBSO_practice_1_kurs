@@ -1,0 +1,3 @@
+* Barbarian 250 25 IronArmor 25
+* Cannon 850 Bullet *SKILL* 25 10
+* Rider Barbarian 150 25 NoneArmor 0 Elephant 350 10 15

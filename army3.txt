@@ -1,0 +1,2 @@
+* Rider Barbarian 150 25 NoneArmor 0 Elephant 42 10 15
+* Rider Barbarian 150 25 NoneArmor 0 Elephant 31 10 15
